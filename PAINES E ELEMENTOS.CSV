@@ -1,13 +1,13 @@
-﻿Azulejo-Código;Técnica de Fabricação e Decorativa;Endereço;Bairro;Uso-Aplicação
-Painel Ornamento PO1;Cerâmica e Vidrado Meio-relevo;Travessa Quintino Bocaiúva n° 1455;Nazaré;Ornato de fachada, assentados por compressão contra argamassa fresca.
-Painel Ornamento PO2;Cerâmica e Vidrado Meio-relevo;Travessa Quintino Bocaiúva n° 1455;Nazaré;Revestimento da parede externa, assentados por compressão contra argamassa fresca
-Painel Ornamento PO3;Cerâmica e Vidrado Meio-relevo;Avenida Governador José Malcher n° 459;Nazaré;Ornato de fachada, assentados por compressão contra argamassa fresca.
-Painel Ornamento PO4;Cerâmica e Vidrado Meio-relevo;Travessa Quintino Bocaiúva n° 1455;Nazaré;Ornato de fachada, assentados por compressão contra argamassa fresca.
-Painel Ornamento PP1;Cerâmica e Vidrado Meio-relevo;Avenida 15 de Novembro n° 241;Campina;Ornato de fachada, assentados por compressão contra argamassa fresca.
-Padrão Elemento Ornamentado PEL 01;Cerâmica e Vidrado Meio-relevo;Demolido Antes de 1986;x;Ornato de fachada, assentados por compressão contra argamassa fresca.
-Padrão Elemento Ornamentado PEL 02;Cerâmica e Vidrado Meio-relevo;Rua Ó de Almeida n° 382;Campina;Ornato de fachada, assentados por compressão contra argamassa fresca.
-Padrão Elemento Ornamentado PEL 03;Cerâmica e Vidrado Meio-relevo;Avenida Magalhães Barata n° 774;São Brás;Ornato de fachada, assentados por compressão contra argamassa fresca.
-Padrão Elemento Ornamentado PEL 04;Cerâmica e Vidrado Meio-relevo;Avenida Magalhães Barata n° 775;São Brás;Ornato de fachada, assentados por compressão contra argamassa fresca.
-Elemento Ornamentado E 01;Cerâmica e Vidrado Meio-relevo;Demolido Antes de 1986;x;Ornato de fachada, assentados por compressão contra argamassa fresca.
-Elemento Ornamentado E 02;Cerâmica e Vidrado;Demolido Antes de 1986;x;Ornato de fachada, assentados por compressão contra argamassa fresca.
-Elemento Ornamentado E 03;Cerâmica e Vidrado;Demolido Antes de 1986;x;Ornato de fachada, assentados por compressão contra argamassa fresca.
+﻿Azulejo-Código-id,Técnica de Fabricação e Decorativa,Endereço,Bairro,Uso-Aplicação
+Painel Ornamento PO1,Cerâmica e Vidrado Meio-relevo,Travessa Quintino Bocaiúva n° 1455,Nazaré,Ornato de fachada e assentados por compressão contra argamassa fresca.
+Painel Ornamento PO2,Cerâmica e Vidrado Meio-relevo,Travessa Quintino Bocaiúva n° 1455,Nazaré,Revestimento da parede externa e assentados por compressão contra argamassa fresca
+Painel Ornamento PO3,Cerâmica e Vidrado Meio-relevo,Avenida Governador José Malcher n° 459,Nazaré,Ornato de fachada e assentados por compressão contra argamassa fresca.
+Painel Ornamento PO4,Cerâmica e Vidrado Meio-relevo,Travessa Quintino Bocaiúva n° 1455,Nazaré,Ornato de fachada e assentados por compressão contra argamassa fresca.
+Painel Ornamento PP1,Cerâmica e Vidrado Meio-relevo,Avenida 15 de Novembro n° 241,Campina,Ornato de fachada e assentados por compressão contra argamassa fresca.
+Padrão Elemento Ornamentado PEL 01,Cerâmica e Vidrado Meio-relevo,Demolido Antes de 1986,x,Ornato de fachada e assentados por compressão contra argamassa fresca.
+Padrão Elemento Ornamentado PEL 02,Cerâmica e Vidrado Meio-relevo,Rua Ó de Almeida n° 382,Campina,Ornato de fachada e assentados por compressão contra argamassa fresca.
+Padrão Elemento Ornamentado PEL 03,Cerâmica e Vidrado Meio-relevo,Avenida Magalhães Barata n° 774,São Brás,Ornato de fachada e assentados por compressão contra argamassa fresca.
+Padrão Elemento Ornamentado PEL 04,Cerâmica e Vidrado Meio-relevo,Avenida Magalhães Barata n° 775,São Brás,Ornato de fachada e assentados por compressão contra argamassa fresca.
+Elemento Ornamentado E 01,Cerâmica e Vidrado Meio-relevo,Demolido Antes de 1986,x,Ornato de fachada e assentados por compressão contra argamassa fresca.
+Elemento Ornamentado E 02,Cerâmica e Vidrado,Demolido Antes de 1986,x,Ornato de fachada e assentados por compressão contra argamassa fresca.
+Elemento Ornamentado E 03,Cerâmica e Vidrado,Demolido Antes de 1986,x,Ornato de fachada e assentados por compressão contra argamassa fresca.
